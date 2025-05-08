@@ -1,0 +1,31 @@
+[01-May-2025 05:07:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sender_name' in 'field list' in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php:4
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php(4): mysqli->prepare('INSERT INTO shi...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php on line 4
+[01-May-2025 05:07:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sender_name' in 'field list' in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php:4
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php(4): mysqli->prepare('INSERT INTO shi...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php on line 4
+[01-May-2025 05:09:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sender_name' in 'field list' in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php:7
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php(7): mysqli->prepare('INSERT INTO shi...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php on line 7
+[01-May-2025 05:11:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sender_name' in 'field list' in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php:8
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php(8): mysqli->prepare('INSERT INTO shi...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php on line 8
+[01-May-2025 05:12:28 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/customer/www/rsoa72.rehan.school/public_html/DHL/track.php on line 7
+[01-May-2025 07:42:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'shipments.tracking_number' in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php:21
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php(21): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php on line 21
+[01-May-2025 07:42:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'shipments.tracking_number' in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php:21
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php(21): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/DHL/admin.php on line 21
